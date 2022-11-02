@@ -1,7 +1,7 @@
 {
     "name": "AmigoPWA",
     "short_name": "Amigo",
-    "start_url": "https://prajwalamigo.github.io/CustomPWA/",
+    "start_url": "index.html",
     "icons":[
         {
           "src": "icons/manifest-icon-192.maskable.png",
